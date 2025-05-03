@@ -1,4 +1,4 @@
-![Alt text](/Reference_Architecture_Diagram.jpg)
+![Alt text](/Reference-Architecture-Diagram.jpg)
 # 🚀 Deploy a Dynamic Website on AWS with CloudFormation
 
 This repository provides a complete guide to deploying a scalable and secure dynamic web application infrastructure using **AWS CloudFormation**. It automates provisioning of VPC, Subnets, NAT Gateways, Load Balancers, RDS, Auto Scaling, Route 53, and Security Groups across multiple Availability Zones.
